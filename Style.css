@@ -2,3 +2,8 @@ body{
    background:Black;
    Color: White;
 }
+p, h1 {
+    text-align: center;
+    color: white;
+}
+
