@@ -1,13 +1,11 @@
 body{
    background:Black;
    Color: White;
+   background-image: url(davinci.jpg); 
 }
-p, h1, h2, h3, h4 {
-    text-align: center;
-    color: aqua;
-}
-div img {
-	float: right; 
+p, h1, h2, h3, h4, li {
+    text-align: left;
+    color: black;
 }
 
 
