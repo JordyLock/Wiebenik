@@ -2,8 +2,12 @@ body{
    background:Black;
    Color: White;
 }
-p, h1 {
+p, h1, h2, h3, h4 {
     text-align: center;
-    color: white;
+    color: aqua;
 }
+div img {
+	float: right; 
+}
+
 
