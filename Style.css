@@ -1,11 +1,20 @@
 body{
-   background:Black;
-   Color: White;
-   background-image: url(davinci.jpg); 
+   background:black;
+   background-image: url(locktransport.png);
+   background-repeat: no-repeat;
+   background-size:cover;
 }
-p, h1, h2, h3, h4, li {
+p, h3, h4, li {
     text-align: left;
-    color: black;
+    color: White;
+    font-size:14pt;
 }
-
+h1	{
+	color:yellow;
+	font-size:30pt;
+}
+h2 {
+	font-size:18pt;
+	color:yellow;
+} 
 
