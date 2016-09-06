@@ -1,6 +1,6 @@
 body{
    background:black;
-   background-image: url(locktransport.png);
+   background-image: url(space.jpg);
    background-repeat: no-repeat;
    background-size:cover;
 }
@@ -10,11 +10,11 @@ p, h3, h4, li {
     font-size:14pt;
 }
 h1	{
-	color:yellow;
+	color:aqua;
 	font-size:30pt;
 }
 h2 {
 	font-size:18pt;
-	color:yellow;
+	color:aqua;
 } 
 
