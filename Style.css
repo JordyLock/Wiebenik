@@ -23,3 +23,17 @@ a{
 	color:aqua;
 
 }
+div {
+	width:600px;
+
+}
+div.Foto{
+	position: relative;
+	
+}
+img.dav  {
+	text-align: right;
+
+
+
+}
