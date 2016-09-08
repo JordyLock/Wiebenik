@@ -37,3 +37,8 @@ img.dav  {
 
 
 }
+body{
+ background-position:center;
+ background-image:url(../WieBenIk/space.jpg);
+ background-attachment: fixed;
+}
