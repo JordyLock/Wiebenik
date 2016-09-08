@@ -9,7 +9,7 @@ p, h3, h4, li {
     color: White;
     font-size:14pt;
 }
-h1	{
+h1 {
 	color:aqua;
 	font-size:30pt;
 }
@@ -18,3 +18,8 @@ h2 {
 	color:aqua;
 } 
 
+a{
+	font-size:20pt;
+	color:aqua;
+
+}
